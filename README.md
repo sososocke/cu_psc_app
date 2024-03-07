@@ -1,1 +1,3 @@
-# CU_PSC - Controll Unit Porsche SC
+# cu_psc_app
+
+control unit app for porsche sc
